@@ -172,6 +172,21 @@ a:hover {
   padding-right: 2em;
 }
 
+/* @media (min-width: 0px and max-width:400px) {
+
+} */
+
+/* @media screen and (min-width: 400px) {
+  #nav-wrapper {
+    background-color: lightgreen;
+  }
+} */
+
+
+
+
+
+
 @media (min-width: 800px) {
   #nav-wrapper {
     overflow: hidden;
@@ -245,4 +260,4 @@ a:hover {
     padding-right: 5em;
   }
 }
-/*# sourceMappingURL=style.css.map */
+
